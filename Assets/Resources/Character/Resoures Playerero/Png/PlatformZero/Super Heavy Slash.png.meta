@@ -1,0 +1,800 @@
+fileFormatVersion: 2
+guid: b94b12ab285391a49ac148a8e0a55021
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2877874415947912125
+    second: Super Heavy Slash_0
+  - first:
+      213: 6758903700593263136
+    second: Super Heavy Slash_1
+  - first:
+      213: -307808157318316387
+    second: Super Heavy Slash_2
+  - first:
+      213: 1224696291230903808
+    second: Super Heavy Slash_3
+  - first:
+      213: 1797193396565684891
+    second: Super Heavy Slash_4
+  - first:
+      213: 5959839533183625782
+    second: Super Heavy Slash_5
+  - first:
+      213: -2316609390343740156
+    second: Super Heavy Slash_6
+  - first:
+      213: 3849303529982966196
+    second: Super Heavy Slash_7
+  - first:
+      213: -2591820713141226663
+    second: Super Heavy Slash_8
+  - first:
+      213: -7186052678169931868
+    second: Super Heavy Slash_9
+  - first:
+      213: -8106327302045495414
+    second: Super Heavy Slash_10
+  - first:
+      213: 1985290025659206469
+    second: Super Heavy Slash_11
+  - first:
+      213: 7283833217090623836
+    second: Super Heavy Slash_12
+  - first:
+      213: -3008295803575800710
+    second: Super Heavy Slash_13
+  - first:
+      213: 6249828410852583988
+    second: Super Heavy Slash_14
+  - first:
+      213: -87702910825252828
+    second: Super Heavy Slash_15
+  - first:
+      213: 3221489454704239019
+    second: Super Heavy Slash_16
+  - first:
+      213: 9041838430021822074
+    second: Super Heavy Slash_17
+  - first:
+      213: -4341955317789455477
+    second: Super Heavy Slash_18
+  - first:
+      213: 9001784297153202333
+    second: Super Heavy Slash_19
+  - first:
+      213: -5056533441980105098
+    second: Super Heavy Slash_20
+  - first:
+      213: -4416881850107522895
+    second: Super Heavy Slash_21
+  - first:
+      213: 8514940052223722655
+    second: Super Heavy Slash_22
+  - first:
+      213: -5737630135857669537
+    second: Super Heavy Slash_23
+  - first:
+      213: -3122270268031868890
+    second: Super Heavy Slash_24
+  - first:
+      213: 1610266037682086615
+    second: Super Heavy Slash_25
+  - first:
+      213: 1137281353927842210
+    second: Super Heavy Slash_26
+  - first:
+      213: -8491007973839899937
+    second: Super Heavy Slash_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Super Heavy Slash_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 6
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c6d31677cbf08d0800000000000000
+      internalID: -2877874415947912125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Heavy Slash_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 11
+        width: 70
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0224fe00b137ccd50800000000000000
+      internalID: 6758903700593263136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Heavy Slash_2
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 30
+        width: 9
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ef21c9c127abbf0800000000000000
+      internalID: -307808157318316387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Heavy Slash_3
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 31
+        width: 10
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e6e84c9cefef010800000000000000
+      internalID: 1224696291230903808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Heavy Slash_4
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 28
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92b9fa4fd9e0f810800000000000000
+      internalID: 1797193396565684891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Heavy Slash_5
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 39
+        width: 7
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a6db59a7a95b250800000000000000
+      internalID: 5959839533183625782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Heavy Slash_6
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 40
+        width: 9
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4052a3d8800c9dfd0800000000000000
+      internalID: -2316609390343740156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Heavy Slash_7
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 33
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9ba418a297b6530800000000000000
+      internalID: 3849303529982966196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Heavy Slash_8
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 50
+        width: 5
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953b7bf1bc0080cd0800000000000000
+      internalID: -2591820713141226663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Heavy Slash_9
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 50
+        width: 7
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afcf6c9923064c90800000000000000
+      internalID: -7186052678169931868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Heavy Slash_10
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 40
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f0788944a808f80800000000000000
+      internalID: -8106327302045495414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Heavy Slash_11
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 52
+        width: 4
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b0b8382ca2d8b10800000000000000
+      internalID: 1985290025659206469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Heavy Slash_12
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 55
+        width: 6
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5990e338bf551560800000000000000
+      internalID: 7283833217090623836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Heavy Slash_13
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 41
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ce090c7e26046d0800000000000000
+      internalID: -3008295803575800710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Heavy Slash_14
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 17
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a2300a3d9dbb650800000000000000
+      internalID: 6249828410852583988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Heavy Slash_15
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 20
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4283e72daaa68cef0800000000000000
+      internalID: -87702910825252828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Heavy Slash_16
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 9
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba12053479705bc20800000000000000
+      internalID: 3221489454704239019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Heavy Slash_17
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 9
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a762de975201b7d70800000000000000
+      internalID: 9041838430021822074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Heavy Slash_18
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 10
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b8a84a4a64eb3c0800000000000000
+      internalID: -4341955317789455477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Heavy Slash_19
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 6
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d988180ff13ccec70800000000000000
+      internalID: 9001784297153202333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Heavy Slash_20
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 0
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e74eb00a593d9b0800000000000000
+      internalID: -5056533441980105098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Heavy Slash_21
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 9
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b09875eb5514b2c0800000000000000
+      internalID: -4416881850107522895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Heavy Slash_22
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 5
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f948a880dd42b2670800000000000000
+      internalID: 8514940052223722655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Heavy Slash_23
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 25
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a90ab6ac7df50b0800000000000000
+      internalID: -5737630135857669537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Heavy Slash_24
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 0
+        width: 80
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6206235dbb77ba4d0800000000000000
+      internalID: -3122270268031868890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Heavy Slash_25
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 28
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2aae10e60d85610800000000000000
+      internalID: 1610266037682086615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Heavy Slash_26
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 0
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a95b86ad5f68cf00800000000000000
+      internalID: 1137281353927842210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Heavy Slash_27
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 0
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2734e2c31e92a80800000000000000
+      internalID: -8491007973839899937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
